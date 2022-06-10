@@ -22,6 +22,8 @@
 - Go.
 - C.
 
+*Wrote a few lines of Kotlin and Swift*
+
 ## Currently learning : ##
 
 - Embedded system programming.
