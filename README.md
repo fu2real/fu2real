@@ -8,7 +8,7 @@
 
 ## Programs : ##
 
-- Substance painter.
+- Substance Painter.
 - DaVinci Resolve.
 - Adobe products.
 - Blender.
