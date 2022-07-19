@@ -26,7 +26,7 @@
 
 ## Currently learning : ##
 
-~~- Embedded system programming.~~
+- ~~Embedded system programming.~~
 - Networking.
-~~- Linux.~~
+- ~~Linux.~~
 - Rust.
